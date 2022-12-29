@@ -1,0 +1,5 @@
+def even(num_list):
+    for i in num_list:
+        if i%2==0:
+            print(i,end='')
+even=([1,23,45,2,4])            
